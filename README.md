@@ -9,6 +9,7 @@
 * Flip display sideways 
 * Turn screen saver off
 * Install Processing 
+  * Click Get Started to get rid of welcome message
 * Start processing sketch automaticlaly on start (fullscreen) 
 
 ## Concerns

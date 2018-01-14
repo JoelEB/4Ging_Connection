@@ -1,7 +1,7 @@
 # 4Ging_Connection
 
 
-##Raspberry Pi Setup Checklist
+## Raspberry Pi Setup Checklist
 
 * Boot Pi from Thumb drive rather than SD card
 * RaspiConfig - settings - timezones!
@@ -11,6 +11,6 @@
 * Install Processing 
 * Start processing sketch automaticlaly on start (fullscreen) 
 
-##Concerns
+## Concerns
 
 * TVs could be tunred off with TV be gone/other IR signals 

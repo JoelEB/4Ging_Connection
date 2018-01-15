@@ -12,6 +12,9 @@
 * Install Processing 
   * Click Get Started to get rid of welcome message
 * Start processing sketch automaticlaly on start (fullscreen) 
+* Must use [GL Video Library](https://github.com/gohai/processing-glvideo), not default Video Library [forum](https://forum.processing.org/two/discussion/23423/can-t-access-camera-module-v2-with-processing)
+* Turn off cursor in Processing sketches 
+* Create one repository with all sketchs that can be downloaded on different Pis
 
 ## Concerns
 

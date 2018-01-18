@@ -21,3 +21,7 @@
 * TVs could be tunred off with TV be gone/other IR signals 
 * IR Sunlight affecting IR distance sensor (Won't be problem if run at night only) 
 * How well IR distance sensor performs behind clear acrylic/plexiglass. 
+
+
+## Notes 
+* My 32" TV has a Height of 1216 pixels and a width of 656 pixels (When inverted 90 degrees) 

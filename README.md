@@ -25,3 +25,8 @@
 
 ## Notes 
 * My 32" TV has a Height of 1216 pixels and a width of 656 pixels (When inverted 90 degrees) 
+
+
+## Ways to Interact
+* Change tint of image (Distance sensor, forground image fades to reveal background image as user appraoches) 
+* move images that are supperimposed (move apps on phone to reveal blank background)
